@@ -1,0 +1,15 @@
+.vagrant
+.rbenv-gemsets
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+/cookbooks
+
+# Bundler
+Gemfile.lock
+bin/*
+.bundle/*
+
